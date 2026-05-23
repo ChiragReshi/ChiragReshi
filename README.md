@@ -9,5 +9,3 @@ Skills: Java / C++ / Python / GCP / AWS
 - 🤔 I’m looking for help with Machine Learning and Data Science
 - 💬 Ask me about Java and Cloud Computing
 - 😄 Pronouns: He/Him
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chirag-Reshi&show_icons=true&theme=radical)
